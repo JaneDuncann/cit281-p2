@@ -10,7 +10,7 @@ In this project, we enhanced our ability to add and commit changes in files to o
 - GitHub
 
 ## What I learned from this Project 
-During this lab, I learned... 
+During this project, I learned... 
 - How to refactor code
 - To create functions getRandomLetter(), getRandomString(min, max), and getSortedString(string)
 - The difference between function expressions and function declarations and how to turn one into the other
